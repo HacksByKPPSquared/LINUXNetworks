@@ -32,5 +32,5 @@ Learning to master Linux isn’t just for sysadmins; it’s the key to truly und
 ---
 
 ⚡ **Pro-tip**: When in doubt, `man` it out! The `man` command is your new best friend. Type `man <command>` and let the magic happen. 🧙‍♂️
-
+## 👉🏾[Lab Walkthrough](https://github.com/Kpierre03/LINUXNetworks/blob/main/LINUX.md)
 ---
