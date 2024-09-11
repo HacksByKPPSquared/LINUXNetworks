@@ -1,24 +1,20 @@
-Lab 04: Managing Linux Networks
+# Managing Linux Networks
 
 1.  Page 9 - Section 1, Step 8 - showing the network interfaces that are
     attached to the *network-interface* instance.
 
-> <img src="./media/image1.png" style="width:5.11456in;height:1.8125in"
-> alt="A computer screen shot of a computer Description automatically generated" />
+> <img src="./media/image1.png" style="width:5.11456in;height:1.8125in" alt="A computer screen shot of a computer Description automatically generated" />
 
 2.  Page 9 - Section 1, Step 9 - showing the network driver for
     the *eth0* interface.<img src="./media/image2.png" style="width:3.73611in;height:2.18056in"
     alt="A screen shot of a computer Description automatically generated" />
 
 3.  Page 10 - Section 1, Step 12 - showing the IP address assigned to
-    the *eth1* interface.<img src="./media/image3.png" style="width:6.5in;height:1.29514in"
-    alt="A screenshot of a computer program Description automatically generated" />
+    the *eth1* interface.<img src="./media/image3.png" style="width:6.5in;height:1.29514in" alt="A screenshot of a computer program Description automatically generated" />
 
-4.  Page 10 - Section 1, Step 13 - showing the results of
-    the *ping* command.
+4.  Page 10 - Section 1, Step 13 - showing the results of the *ping* command.
 
-> <img src="./media/image4.png" style="width:6.16667in;height:1.79167in"
-> alt="A screenshot of a computer Description automatically generated" />
+> <img src="./media/image4.png" style="width:6.16667in;height:1.79167in" alt="A screenshot of a computer Description automatically generated" />
 
 5.  Page 11 - Section 1, Step 14c - showing the packet information in
     the *tcpdump-eth1.txt* file.<img src="./media/image5.png" style="width:6.5in;height:1.65486in"
@@ -63,5 +59,3 @@ Lab 04: Managing Linux Networks
 15. Page 27 - Section 3, Step 17 - showing the results of
     the *ping* command.<img src="./media/image15.png" style="width:6.5in;height:2.85208in"
     alt="A screenshot of a computer Description automatically generated" />
-
-16. Submit your Lab file in Ivy Learn for the assignment.
